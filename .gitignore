@@ -1,0 +1,9 @@
+node_modules/
+cache/
+build/
+artifacts/
+coverage*
+.env
+.DS_STORE
+.openzeppelin
+slither-results.json
